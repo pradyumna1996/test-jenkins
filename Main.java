@@ -7,5 +7,8 @@ System.out.println("Hello From Lappy");
 System.out.println("Changed From Local Repo.");
 System.out.println("Aka Jenkins Worked");
 
+Student s = new Student("Pradyumna","101JenkinsTrainee");
+s.printDetails();
+
 }
 }
