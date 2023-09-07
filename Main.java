@@ -11,6 +11,7 @@ public class Main {
 
         Courses c = new Courses("CSIT");
         c.printCourseName();
+        System.out.println("Hello Next Day Code Push");
 
     }
 }
